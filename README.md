@@ -17,4 +17,5 @@ desiredProduct='EX_ac_e';
 [main, mid] = optEnvelope(iJR904, desiredProduct, 'midPoints', 10)
 
 ## 4. Reference
-https://doi.org/10.1371/journal.pone.0294313
+If you use this method or code in your research, please cite our paper:
+Motamedian, E., Berzins, K., Muiznieks, R., & Stalidzans, E. (2023). OptEnvelope: A target point guided method for growth-coupled production using knockouts. PLoS ONE, 18(11), e0294313. https://doi.org/10.1371/journal.pone.0294313
